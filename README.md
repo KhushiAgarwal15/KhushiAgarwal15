@@ -8,8 +8,8 @@ I am an Android Developer.
 
 * 🌍  I'm based in Uttar Pradesh, India
 * ✉️  You can contact me at [khuaga2003@gmail.com](mailto:khuaga2003@gmail.com)
-* 🧠  I'm learning Firebase
-* 🤝  I'm open to collaborating on Android Projects
+* 🧠  I'm learning React
+* 🤝  I'm open to collaborating on WebDev Projects
 
 ### Skills
 
