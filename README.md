@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khushi Agarwal
 ======================================================================================================================================
 
-Android Developer
+Web Developer
 -----------------
 
-I am an Android Developer.
+I am a Web Developer.
 
 * 🌍  I'm based in Uttar Pradesh, India
 * ✉️  You can contact me at [khuaga2003@gmail.com](mailto:khuaga2003@gmail.com)
